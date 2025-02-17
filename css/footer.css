@@ -8,8 +8,8 @@
     height: auto;
     width: auto;
     color: #fff;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 70px;
+    margin-bottom: 0px;
 }
 
 .rodape1{
@@ -37,7 +37,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 4%;
+    margin-left: -100px;
 }
 
 .rodape2 p{
@@ -52,7 +52,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 4%;
+    margin-right: 60px;
 }
 
 .rodape3 p{
